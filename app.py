@@ -272,5 +272,6 @@ elif page == "📊 Eksplorasi Data":
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.sidebar.divider()
-st.sidebar.markdown("Made with ❤️ by **[Nama Kamu]**")
-st.sidebar.markdown("[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Lnathea/Uci-Air-Quality-Analysis)")
+st.sidebar.markdown("Made with ❤️ by **Muhammad Afriza Hidayat**")
+st.sidebar.markdown("[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afriza)")
+st.sidebar.markdown("[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Lnathea)")
