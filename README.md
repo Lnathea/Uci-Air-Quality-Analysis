@@ -117,7 +117,8 @@ uci-air-quality-analysis/
 
 **Opsi 1 — Google Colab (Rekomendasi)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lnathea/Uci-Air-Quality-Analysis/blob/main/air_quality_complete.ipynb)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uci-air-quality-analysis-zekmcgdmadxpdilbhyd7aj.streamlit.app)
 
 1. Upload `air_quality_complete.ipynb` ke Google Colab
 2. Jalankan semua cell dari atas ke bawah (`Runtime → Run all`)
@@ -150,11 +151,12 @@ jupyter notebook air_quality_complete.ipynb
 
 ## 👤 Author
 
-**[Nama Kamu]**
+**Muhammad Afriza Hidayat**
 Mahasiswa Teknik Informatika | Data & AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/username)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afriza)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Lnathea)
+[![Streamlit](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://uci-air-quality-analysis-zekmcgdmadxpdilbhyd7aj.streamlit.app)
 
 ---
 
