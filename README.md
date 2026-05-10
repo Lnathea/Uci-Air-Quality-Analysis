@@ -77,9 +77,9 @@ uci-air-quality-analysis/
 
 | Model | MAE | RMSE | R² |
 |---|---|---|---|
-| Linear Regression | 0.44 | 0.66 | 0.74 |
-| Random Forest | 0.44 | 0.66 | 0.74 |
-| **XGBoost** ⭐ | 0.45 | 0.67 | 0.73 |
+| Linear Regression | 0.4415 | 0.6623 | 0.7390 |
+| **Random Forest** ⭐ | 0.4388 | 0.6557 | 0.7442 |
+| XGBoost | 0.4473 | 0.6744 | 0.7294 |
 
 > *Nilai akan terisi setelah notebook dijalankan*
 
